@@ -15,7 +15,7 @@
 </a>
 
 #### 💻 Tech Stack:
-![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css,javascript,typescript,netlify,git,github,visualstudiocode,figma,canva,nodejs,java,php,) <!-- https://github.com/syvixor/skills-icons -->
+![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css,javascript,typescript,git,github,visualstudiocode,figma,canva,nodejs,java,php,python) <!-- https://github.com/syvixor/skills-icons -->
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThalitaPereiraLAtheme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
