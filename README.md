@@ -21,7 +21,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ThalitaPereiraLAtheme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThalitaPereiraLAtheme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaPereiraLA&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ThalitaPereiraLA=anuraghazra&hide=contribs,prs) <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalitaPereiraLA&show_icons=true)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalitaPereiraLA&show_icons=true&theme=tokyonight)
