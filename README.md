@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá sou Thalita Pereira 
 
-<!--
-**ThalitaPereiraLA/ThalitaPereiraLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou estudante de Ciências da Computação.
+- 🌱 Estudando JAVA e Node.JS atualmente
+- 📫 How to reach me: contatothalitaa@gmail.com
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+#### 🌐 Socials:
+<a href="https://www.instagram.com/thalidoobee">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="contatothalitaa@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   <br></br>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Tech Stack:
+![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css,javascript,typescript,flutter,dart,netlify,supabase,markdown,git,github,visualstudiocode,cachyos,figma,hoppscotch,filezilla) <!-- https://github.com/syvixor/skills-icons -->
+
+#### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bert093&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
