@@ -18,6 +18,4 @@
 ![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css,javascript,typescript,flutter,dart,netlify,supabase,markdown,git,github,visualstudiocode,cachyos,figma,hoppscotch,filezilla) <!-- https://github.com/syvixor/skills-icons -->
 
 #### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bert093&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalitaPreiraLA)](https://github.com/anuraghazra/github-readme-stats)
