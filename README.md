@@ -14,8 +14,13 @@
    <br></br>
 </a>
 
-#### 💻 Tech Stack:
-![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css,javascript,typescript,git,github,visualstudiocode,figma,canva,nodejs,java,php,python) <!-- https://github.com/syvixor/skills-icons -->
+## Tecnologias que estou estudando / praticando
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+## Tecnologias que uso no dia a dia
+
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThalitaPereiraLAtheme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
