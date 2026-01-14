@@ -21,7 +21,7 @@
 
 ## Tecnologias que uso no dia a dia
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThalitaPereiraLAtheme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThalitaPereiraLAtheme=tokyonight&hide_border=true)<br/>
