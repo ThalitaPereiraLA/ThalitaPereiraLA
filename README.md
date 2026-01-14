@@ -16,11 +16,11 @@
 
 ## Tecnologias que estou estudando / praticando
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,php,java,docker,django)](https://skillicons.dev)
 
 
 ## Tecnologias que uso no dia a dia
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThalitaPereiraLAtheme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
