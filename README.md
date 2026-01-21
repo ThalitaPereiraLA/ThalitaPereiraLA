@@ -25,10 +25,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-
-#### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThalitaPereiraLAtheme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThalitaPereiraLAtheme=tokyonight&hide_border=true)<br/>
-
-##Portfólio
+## Portfólio
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-profissional-five.vercel.app/#github-stats)
