@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudante de Ciências da Computação.
 - 🌱 Estudando JAVA e Node.JS atualmente
-- 📫 How to reach me: contatothalitaa@gmail.com
+- 📫 Email: contatothalitaa@gmail.com
 - 😄 Pronouns: ela/dela
 
 #### 🌐 Socials:
